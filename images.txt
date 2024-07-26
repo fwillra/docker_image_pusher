@@ -1,1 +1,1 @@
-easzlab/kubeasz
+appsmith/appsmith-ce
